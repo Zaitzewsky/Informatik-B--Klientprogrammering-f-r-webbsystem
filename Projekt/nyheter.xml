@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsfeed>
+	<article id="1">
+		<title>Försäljningen ökar!</title>
+		<bodytext>
+			Fantastiska nyheter! BEG har ökat sin försäljning med 300 procent på fyra månader. Detta firar ledningen med bubbel och kexchoklad.
+		</bodytext>
+		<date>
+			1 maj 2014
+		</date>
+	</article>
+	<article id="2">
+		<title>Nyanställda utvecklare</title>
+		<bodytext>
+			Vi kan nu med glädje välkomna Sten Frisk och Mimmi Gustavsson som juniora spelutvecklare! Båda har precis avslutat sina studier på Systemvetenskapliga programmet vid Örebro Universitet och vi är glada att ha kunnat rekrytera dessa nya och fräscha förmågor.
+		</bodytext>
+		<date>
+			23 maj 2014
+		</date>
+	</article>
+	<article id="3">
+		<title>Nytt spel på gång</title>
+		<bodytext>
+			Såhär straxt före sillen och nubben sitter vi och filar på nya spelidéer inför 2015. Inga detaljer klara än men vi lovar zombies, blod och hög hunk-faktor, för att återanvända ett gammalt uttryck från Okej-tiden.
+		</bodytext>
+		<date>
+			19 juni 2014
+		</date>
+	</article>
+	<article id="4">
+		<title>Semestern är slut</title>
+		<bodytext>
+			Semestern är nu slut för alla utvecklare på BEG, och den lummiga semesterdvalan verkar ha släppt de flesta. Nu kör vi all-in hela hösten! Vi kommer släppa en nyhet lagom till Halloween och alla är supertaggade. Nu kör vi!
+		</bodytext>
+		<date>
+			18 augusti 2014
+		</date>
+	</article>
+	<article id="5">
+		<title>Hösten är här!</title>
+		<bodytext>
+			Jahapp, då var det första september igen. Sommarn är officiellt slut och det blir mörkare och kallare.. Världens bästa årstid säger vi på BEG - nu slutar folk tjata på oss att vi måste 'passa på' och gå ut i solen eftersom det är sommar, när det enda vi vill är att spela våra tv-spel.
+		</bodytext>
+		<date>
+			1 september 2014
+		</date>
+	</article>
+</newsfeed>

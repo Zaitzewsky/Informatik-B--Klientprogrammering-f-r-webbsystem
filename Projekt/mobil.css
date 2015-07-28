@@ -1,0 +1,197 @@
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+li {
+	float: left;
+	padding: 3px;
+}
+
+#hem a {
+	background-color: white;
+	color: black;
+	box-shadow: 0px 0px 5px 0px;
+}
+
+#omoss a {
+	background-color: white;
+	color: black;
+	box-shadow: 0px 0px 5px 0px;
+}
+
+#spel a {
+	background-color: white;
+	color: black;
+	box-shadow: 0px 0px 5px 0px;
+}
+
+#nyheter a {
+	background-color: white;
+	color: black;
+	box-shadow: 0px 0px 5px 0px;
+}
+
+#kontakt a {
+	background-color: white;
+	color: black;
+	box-shadow: 0px 0px 5px 0px;
+}
+
+a.menu:link, a.menu:visited {
+	padding-bottom: 20px;
+	display: block;	
+	width: 150px;
+	font-weight: bolder;
+	color: white; 
+	background-color: black;
+	text-align: center;
+	padding: 8px;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+
+#bildspel{
+	padding-top: 20px;
+	width: 100px;
+}
+
+#news{
+	max-width: 800px;
+	float:left;
+}
+
+.bodytext{
+	font-family: sans-serif;
+}
+
+.article{
+	float: left;
+	padding: 8px 32px 8px 8px;
+}
+
+.title{
+	border-bottom: thin solid black;
+}
+
+a.menu:hover, a.menu:active {
+	background-color: white;
+	color: black;
+	box-shadow: 0px 0px 5px 0px;
+}
+
+body {
+	background-image: url("assasinscreed.png");
+	background-attachment: fixed;
+}
+
+
+/* Kod för att få allt i mitten
+div.kropp{
+		left: 500px;
+		position: relative;
+		float:left;
+}
+*/
+
+
+p {
+	color: black;
+}
+h1 {
+	font-family: monospace;
+	color: black;
+	font-size: 32px;
+}
+h2 {
+	font-family: monospace;
+	color: black;
+	font-size: 30px;
+}
+
+input {
+	background-color: black;
+	color: white;
+}
+
+p { 
+text-align: justify;
+}
+
+textarea {
+color: white;
+background-color: black;
+}
+
+#Karta{
+	display: none;
+}
+
+#Kontor{
+	display: none;
+}
+
+#AllaKontor{
+	display: block;
+}
+
+#bild{
+	width: 367px;
+	height: 207px;
+}
+
+#bildHeader{
+	width: 367px;
+	height: 90px;
+}
+
+
+
+div.img {
+    margin: -15px;
+    padding: 15px;
+    /*border: 1px solid #0000ff;*/
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 288px;
+    margin: 5px;
+    font-color: white;
+    border-top: solid thin black;
+}
+
+div.desc p {
+    color: black;
+    font-family: helvetica;
+    font-size: 14px;
+}
+
+h2#rubrikSpel {
+	margin: 5px;
+	font-size: 32px;
+}
+
+p.underrubrik {
+	margin: 5px;
+	max-width: 550px;
+	font-family: helvetica;
+}

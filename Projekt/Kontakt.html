@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<title>Kontakt</title>
+<meta charset="utf-8" />
+<script src="jquery-1.11.1.js"type="text/javascript"></script>
+<script src="projekt.js" type="text/javascript"></script>
+</head>
+<link rel="stylesheet" href="Projekt.css">
+<link rel="stylesheet" media="screen and (max-width:700px)" href="mobil.css">
+<body>
+<header>
+  <a href="Projekt.html">
+  	<img id="bildHeader" src="logo.png">
+  </a>
+</header>
+<ul>
+	<li><a class="menu"href="Projekt.html">Hem</a></li>
+	<li><a class="menu"href="Nyheter.html">Nyheter</a></li>
+	<li><a class="menu" href="Spel.html">Spel</a></li>
+	<li id="kontakt"><a class="menu" href="Kontakt.html">Kontakt</a></li>
+  	<li><a class="menu" href="OmOss.html">Om oss</a></li>
+</ul>
+<h2> Kontaka oss</h2>
+<form>
+
+<p>Ämne: <input type="text" id="valideraAmne" name="amne"/></p>
+<p>Mail: <input type="text" id="valideraMail" name="mail"/></p>
+<p>Fråga: </p>
+<textarea name="fråga" id="valideraTextArea" rows="12" cols="40">
+</textarea>
+
+<p><input type="button" id="submit" value="Skicka Fråga"/>
+<input type="reset"/></p>
+</form>
+</body>
+</html>
